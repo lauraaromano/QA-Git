@@ -52,18 +52,18 @@ header nav a {
 }
 
 header nav a:hover {
-  color: #d6557d;
+  color: #dd5517;
 }
 
 .btn-nav {
-  background-color: #d6557d;
+  background-color: #155547;
   color: #fff !important;
   padding: 8px 18px;
   border-radius: 30px;
 }
 
 .btn-nav:hover {
-  background-color: #b14066;
+  background-color: #000000;
 }
 
 /* HERO */

@@ -44,7 +44,7 @@ header {
 }
 
 header nav a {
-  color: #5c3a45;
+  color: #31500e;
   text-decoration: none;
   margin-left: 28px;
   font-size: 14px;
@@ -52,18 +52,18 @@ header nav a {
 }
 
 header nav a:hover {
-  color: #d6557d;
+  color: #15ff00;
 }
 
 .btn-nav {
-  background-color: #d6557d;
+  background-color: #155547;
   color: #fff !important;
   padding: 8px 18px;
   border-radius: 30px;
 }
 
 .btn-nav:hover {
-  background-color: #b14066;
+  background-color: #000000;
 }
 
 /* HERO */

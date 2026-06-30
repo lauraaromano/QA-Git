@@ -44,7 +44,7 @@ header {
 }
 
 header nav a {
-  color: #5c3a45;
+  color: #31500e;
   text-decoration: none;
   margin-left: 28px;
   font-size: 14px;
@@ -52,7 +52,7 @@ header nav a {
 }
 
 header nav a:hover {
-  color: #dd5517;
+  color: #15ff00;
 }
 
 .btn-nav {
